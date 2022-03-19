@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b5f6f3a-b075-480a-9665-02d87cb2ff2c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/our_daily_life_server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/our_daily_life_server.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/our_daily_life_server/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/our_daily_life_server/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/our_daily_life_server/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/our_daily_life_server/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/our_daily_life_server/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/post/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/post/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/post/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/post/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -94,6 +87,10 @@
       <option name="presentableId" value="Default" />
       <updated>1647176767546</updated>
       <workItem from="1647176770650" duration="6890000" />
+      <workItem from="1647262462117" duration="812000" />
+      <workItem from="1647263379396" duration="797000" />
+      <workItem from="1647504813494" duration="33000" />
+      <workItem from="1647671710473" duration="2680000" />
     </task>
     <servers />
   </component>
