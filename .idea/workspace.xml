@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b5f6f3a-b075-480a-9665-02d87cb2ff2c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/djangoapi/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/djangoapi/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/backend/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/post/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/post/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/post/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/post/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/post/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/post/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/post/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/post/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +93,8 @@
       <workItem from="1647263379396" duration="797000" />
       <workItem from="1647504813494" duration="33000" />
       <workItem from="1647671710473" duration="4142000" />
-      <workItem from="1647752059389" duration="1766000" />
+      <workItem from="1647752059389" duration="2223000" />
+      <workItem from="1647757262543" duration="4938000" />
     </task>
     <servers />
   </component>
