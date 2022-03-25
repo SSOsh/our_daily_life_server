@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b5f6f3a-b075-480a-9665-02d87cb2ff2c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/djangoapi/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/djangoapi/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/post/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/post/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/post/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/post/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/post/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/post/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/post/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/post/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/backend/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +95,7 @@
       <workItem from="1648020779872" duration="1521000" />
       <workItem from="1648038144817" duration="3930000" />
       <workItem from="1648098658885" duration="4546000" />
-      <workItem from="1648162518158" duration="5755000" />
+      <workItem from="1648162518158" duration="6138000" />
     </task>
     <servers />
   </component>

@@ -1,3 +1,5 @@
 .idea/
 
 django-venv/
+
+backend/post/__pychache__
