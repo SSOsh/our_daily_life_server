@@ -1,5 +1,5 @@
-.idea/
+/.idea/
 
-django-venv/
+/django-venv/
 
-backend/post/__pychache__
+/backend/post/__pychache__
