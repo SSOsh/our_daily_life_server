@@ -123,7 +123,7 @@ class FollowDeleteView(APIView):
 
 # 팔로우, 팔로워 갯수 조회
 class FollowLookupView(APIView):
-    def get(self, request, **kwargs):
+    def get(self, request):
         follows = Follow.objects.filter(active=True, many=True)
         followSerializer = FollowSerializer(follows)
         return Response(followSerializer.data)
