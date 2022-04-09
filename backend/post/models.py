@@ -45,13 +45,13 @@ class Comment(models.Model):
         sequence: 대댓글여부
     """
     commentId = models.AutoField(primary_key=True, null=False)
-    postTitle = models.ForeignKey(Post, on_delete=models.CASCADE, null=False)
+    postId = models.ForeignKey(Post, on_delete=models.CASCADE, null=False)
     comment = models.TextField(null=False)
     sequence = models.SmallIntegerField(null=False)
 
     def __str__(self):
         """A string representation of the model."""
-        return self.postTitle
+        return str(self.postId)
 
 
 # 좋아요
@@ -63,7 +63,7 @@ class Like(models.Model):
 
     def __str__(self):
         """A string representation of the model."""
-        return self.postId
+        return str(self.postId)
 
 
 # 팔로잉

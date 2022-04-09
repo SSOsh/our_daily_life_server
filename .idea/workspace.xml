@@ -8,8 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/post/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/post/migrations/0001_initial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/post/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/post/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/post/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/post/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/post/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/post/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +104,8 @@
       <workItem from="1648565044308" duration="861000" />
       <workItem from="1648569641466" duration="12062000" />
       <workItem from="1648617011859" duration="7491000" />
+      <workItem from="1648820048661" duration="593000" />
+      <workItem from="1649515567665" duration="1649000" />
     </task>
     <servers />
   </component>
