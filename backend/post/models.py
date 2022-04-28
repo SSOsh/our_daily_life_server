@@ -51,11 +51,17 @@ class Comment(models.Model):
 
     def __str__(self):
         """A string representation of the model."""
-        return str(self.postId)
+        return str(self.comment)
 
 
 # 좋아요
 class Like(models.Model):
+    """
+        likeId: 좋아요ID
+        postId: 게시물ID
+        commentId: 댓글ID
+        like: 좋아요여부
+    """
     likeId = models.AutoField(primary_key=True, null=False)
     postId = models.ForeignKey(Post, on_delete=models.CASCADE)
     commentId = models.ForeignKey(Comment, on_delete=models.CASCADE)
@@ -68,6 +74,11 @@ class Like(models.Model):
 
 # 팔로잉
 class Follow(models.Model):
+    """
+        followId: 팔로우ID
+        follower: 팔로워ID
+        following: 팔로잉ID
+    """
     followId = models.AutoField(primary_key=True, null=False)
     follower = models.CharField(max_length=100, null=False)
     following = models.CharField(max_length=100, null=False)
